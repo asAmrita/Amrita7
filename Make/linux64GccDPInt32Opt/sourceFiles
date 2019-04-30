@@ -1,0 +1,4 @@
+SOURCE = \
+myscalarTransportFoam5.C \
+
+# sources
